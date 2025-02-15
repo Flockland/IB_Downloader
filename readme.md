@@ -44,7 +44,7 @@ This project is a Python script that scrapes a site with IB resources for school
 If you're not familiar with coding or using the command line, follow these steps:
 
 1. **Download the ZIP Folder**:
-    - Go to the repository page and click **Download ZIP** (or download the ZIP from this link: `https://github.com/Flockland/IB-Scraper/archive/refs/heads/main.zip`).
+    - Go to the repository page and click **Download ZIP** (or download the ZIP from this link: `https://github.com/Flockland/IB_Downloader/archive/refs/heads/main.zip`).
     - Once downloaded, **extract** the ZIP file to any folder on your computer.
 
 2. **Activate the Virtual Environment**:
