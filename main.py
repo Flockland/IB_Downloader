@@ -93,7 +93,7 @@ def populate(url,dir2,cur_path):
 
             for ext in selected_extensions:
                 if newUrl.endswith(ext):
-                    flg = True
+                    flag = True
                     break
 
             if flag and not newUrl in downloaded:
