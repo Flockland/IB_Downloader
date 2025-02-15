@@ -13,6 +13,19 @@ This project is a Python script that scrapes a site with IB resources for school
 
 ## Installation
 
+### Installing Python and Adding It to Your PATH
+
+Before you can use Python for your project, you need to have it installed on your system. Follow these steps to install Python and set it up:
+
+#### 1. **Download and Install Python**
+1. Visit the [official Python website](https://www.python.org/downloads/) to download the latest stable version of Python.
+2. Choose the version for your operating system (Windows, macOS, Linux) and download the installer.
+3. **Run the installer** and make sure to check the box that says **"Add Python to PATH"** before clicking **Install Now**.
+
+   > **Important:** The option to "Add Python to PATH" ensures that Python and `pip` (the Python package manager) are available globally in the command line. If this box is not checked, you may face issues with running Python commands from the terminal.
+
+
+
 ### For Technical Users:
 
 1. **Clone the Repository**:
@@ -32,6 +45,7 @@ This project is a Python script that scrapes a site with IB resources for school
     This will activate the `venv` folder and set up the environment for your project.
 
 3. **Run the Script**:
+    Run the command "pip install --upgrade -r requirements.txt"
     With the virtual environment activated, you can start using the project. Run the `main.py` script:
     ```bash
     python main.py
@@ -54,7 +68,12 @@ If you're not familiar with coding or using the command line, follow these steps
     - This will open a **Command Prompt window** and automatically activate the virtual environment. You should see `(venv)` at the beginning of the command prompt.
 
 3. **Run the Program**:
+
     - In the same Command Prompt window, run the program by typing:
+      ```bash
+      pip install --upgrade -r requirements.txt
+      ```
+      and then
       ```bash
       python main.py
       ```
