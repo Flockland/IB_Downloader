@@ -17,8 +17,8 @@ This project is a Python script that scrapes a site with IB resources for school
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/ib-resources-scraper.git
-    cd ib-resources-scraper
+    git clone https://github.com/Flockland/IB_Downloader.git
+    cd IB_Downloader
     ```
 
 2. **Activate the Virtual Environment**:
